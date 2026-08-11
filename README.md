@@ -10,7 +10,7 @@
 |---------|------|
 | [마인드셋](./docs/mindset) | 번아웃 방지, 동기부여, 시간관리, 직장+사이드 병행 |
 | [아이디어](./docs/ideas) | 아이디어 발굴, PMF 검증, 고객 인터뷰, 스모크 테스트 |
-| [개발](./docs/dev) | MVP 전략, 기술 스택 선택, AI 코딩 도구 활용 |
+| [개발](./docs/dev) | MVP 전략, AI 에이전트 워크플로우, 무료 티어 백엔드, 계측과 지표 |
 | [자동화](./docs/automation) | CI/CD, 테스트 자동화, AI 기반 워크플로우 |
 | [수익화](./docs/monetization) | AdMob, 인앱결제, 구독 모델, 가격 전략 |
 | [런칭](./docs/launch) | ASO, 앱스토어 심사, Product Hunt, 초기 사용자 확보 |

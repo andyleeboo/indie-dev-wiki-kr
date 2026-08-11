@@ -10,6 +10,7 @@
   * [아이디어 가이드](docs/ideas/아이디어.md)
 * [개발](docs/dev/README.md)
   * [개발 가이드](docs/dev/개발.md)
+  * [데이터·분석](docs/dev/데이터분석.md)
 * [자동화](docs/automation/README.md)
   * [자동화 가이드](docs/automation/자동화.md)
 * [수익화](docs/monetization/README.md)
